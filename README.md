@@ -192,21 +192,3 @@ pip install -r requirements.txt
 python src/data_preparation.py
 python src/feature_engineering.py
 ```
-
-## Project Status
-
-- [x] Project scope and repository structure
-- [x] Data-preparation starter script
-- [x] Leakage-safe feature-engineering starter script
-- [ ] Kaggle data downloaded
-- [ ] Data cleaning and exploratory analysis
-- [ ] Baseline forecasting models
-- [ ] LightGBM and XGBoost model comparison
-- [ ] Model interpretation and business recommendations
-- [ ] Looker Studio dashboard
-- [ ] Final portfolio case study
-
-## Author
-
-**Corderitianto Alvian Dwantara**  
-Information Systems and Management, BINUS University
